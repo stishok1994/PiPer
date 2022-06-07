@@ -12,8 +12,8 @@ body {
     position: fixed;
     width: 100%;
     top: 0;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 .navigation_header {
     width: 100%;
@@ -33,7 +33,7 @@ body {
     font-family: roboto, sans-serif;
     font-style: normal;
     font-weight: 500;
-    font-size: 20px;
+    font-size: 25px;
     float: right;
     line-height: 30px;
 }
@@ -167,16 +167,34 @@ line-height: 56.25px;
     width: 33.33333%;
     float: left;
     display: inline;
-}
-.row:after {
-    clear: both;
-    display: inline-block;
+    margin: auto;
+    /* padding: auto; */
 }
 .section_5 {
     clear: both;
     display: inline-block;
 }
+.fig {
+display: block;
+padding: auto;
+text-align: center;
+}
 .foto {
     width: 168px;
     height: 168px;
+    align-content: center;
+}
+.row {
+    clear: both;
+    display: inline-block;
+    width: 100%;
+    margin-top: 82px;
+}
+.h2_ {
+    font-size: 24px;
+    font-weight: bold;
+    font-family: roboto, sans-serif;
+    line-height: 28.13px;
+    vertical-align: top;
+    margin-bottom: 0px;
 }
