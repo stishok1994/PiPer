@@ -6,7 +6,7 @@ body {
 
 /* заголовок сайта */
 .head_conteiner {
-    background-image: url(/picture/back_head.png);
+    background-image: url(./picture/back_head.png);
     background-position: center;
     background-size: cover;
     position: fixed;
@@ -46,7 +46,7 @@ body {
 /* тело сайта */
 /* секция 1 */
 .section_1 {
-    background-image: url(/picture/fon_1.png);
+    background-image: url(./picture/fon_1.png);
     background-size: cover;
     background-position: center center;
     width: 100%;
@@ -65,7 +65,7 @@ body {
 
 /* секция 2 */
 .section_2 {
-    background-image: url(/picture/fon_sec2.png);
+    background-image: url(./picture/fon_sec2.png);
     background-size: cover;
     background-position: center center;
     width: 100%;
@@ -100,7 +100,7 @@ line-height: 37.5px;
 
 /* секция 2 */
 .section_3 {
-    background-image: url(/picture/fon_sec3.png);
+    background-image: url(./picture/fon_sec3.png);
     width: 100%;
     background-position: center center;
     background-size: cover;
@@ -153,7 +153,7 @@ line-height: 56.25px;
 /* секция 5 */
 .section_5 {
     width: 100%;
-    background-image: url(/picture/fon_sec5.png);
+    background-image: url(./picture/fon_sec5.png);
     background-position: center center;
     background-size: cover;
     padding-top: 58px;
@@ -201,7 +201,7 @@ text-align: center;
 
 /* подпись */
 .footer_ {
-    background-image: url(/picture/footer_fon.png);
+    background-image: url(./picture/footer_fon.png);
     background-size: cover;
     background-position: center center;
 }
